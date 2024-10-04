@@ -18,4 +18,7 @@
     i. Default formatter: Prettier
     ii. Format on save
     iii. Created a .prettierrc file
-11.
+11. Created the UI using Bootstrap & added icon using Bootstrap icon svg
+12. Fonts from google fonts linear gradient from shecodes
+13. folder structure: css/main.css js/main.js
+14. We brought data.json file
